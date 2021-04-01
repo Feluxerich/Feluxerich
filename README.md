@@ -1,6 +1,7 @@
-## Felix
 #### Feluxerich
+# Felix
 
 ---
 
-Hey I'm Felix. I am living nearby Nuremberg and I'm a student
+
+<img src="https://github-readme-stats.vercel.app/api?username=Feluxerich&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave">
