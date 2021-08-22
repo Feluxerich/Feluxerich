@@ -60,6 +60,14 @@
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
 ![Teamspeak](https://img.shields.io/badge/-Teamspeak-333333?style=for-the-badge&logo=teamspeak)
 
+## Operating System
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)
+![Fedora](https://img.shields.io/badge/-Fedora-333333?style=for-the-badge&logo=fedora)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
+
 ## GitHub
 
 ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=vue-dark)
