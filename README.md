@@ -1,7 +1,26 @@
 #### Feluxerich
 # Felix
 
-## Programming Languages and Frameworks
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=dark&show_icons=true&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=dark">
+
+### Check out what I'm currently working on
+
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (today)
+- [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (3 days ago)
+- [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react (3 days ago)
+- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (2 weeks ago)
+- [Feluxerich/PyCommandLine](https://github.com/Feluxerich/PyCommandLine) - A python package for creating command line modules. (2 weeks ago)
+
+### :seedling: My latest projects
+
+- [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react
+- [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go.
+- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) - 
+- [Feluxerich/PyCommandLine](https://github.com/Feluxerich/PyCommandLine) - A python package for creating command line modules.
+- [Feluxerich/DjangoApps](https://github.com/Feluxerich/DjangoApps) - 
+
+### Programming Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
@@ -25,7 +44,7 @@
 
 ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=for-the-badge&logo=go)
 
-## IDEs
+### IDEs
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
@@ -35,40 +54,35 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=for-the-badge&logo=webstorm)
 ![Rider](https://img.shields.io/badge/-Rider-333333?style=for-the-badge&logo=rider)
 
-## Editors
+### Editors
 
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=for-the-badge&logo=visualstudiocode)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim)
 
-## Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=for-the-badge&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
 
-## Git Stuff
+### Git Stuff
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-333333?style=for-the-badge&logo=gitkraken)
 
-## Social
+### Social
 
 ![Matrix](https://img.shields.io/badge/-Matrix-333333?style=for-the-badge&logo=matrix)
 ![Element](https://img.shields.io/badge/-Element-333333?style=for-the-badge&logo=element)
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
 ![Teamspeak](https://img.shields.io/badge/-Teamspeak-333333?style=for-the-badge&logo=teamspeak)
 
-## Operating System
+### Operating System
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)
 ![Fedora](https://img.shields.io/badge/-Fedora-333333?style=for-the-badge&logo=fedora)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
-
-## GitHub
-
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=vue-dark)
-![GH Stats](https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=vue-dark&show_icons=true&count_private=true)
