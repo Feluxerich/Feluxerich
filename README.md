@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Look... What is this? It's my nice about me page? But... Hey, my name is **Felix** and I'm 15 years old. I'm developing in python (as you may see in my most used languages ^^). I live in germany near Nuremberg (bavaria :beers:).
+Look... What is this? It's my nice about me page? But... Hey, my name is **Felix**. I'm developing in python (as you may see in my most used languages ^^). I live in germany near Nuremberg (bavaria :beers:).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=dark&show_icons=true&count_private=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=dark">
