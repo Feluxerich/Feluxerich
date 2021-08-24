@@ -18,7 +18,7 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### Programming Languages and Frameworks
+### :computer: Programming Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
@@ -42,7 +42,7 @@
 
 ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=for-the-badge&logo=go)
 
-### IDEs
+### :notebook: IDEs
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
@@ -52,32 +52,32 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=for-the-badge&logo=webstorm)
 ![Rider](https://img.shields.io/badge/-Rider-333333?style=for-the-badge&logo=rider)
 
-### Editors
+### :page_facing_up: Editors
 
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=for-the-badge&logo=visualstudiocode)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim)
 
-### Databases
+### :bar_chart: Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=for-the-badge&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
 
-### Git Stuff
+### :bookmark_tabs: Git Stuff
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-333333?style=for-the-badge&logo=gitkraken)
 
-### Social
+### :speech_balloon: Social
 
 ![Matrix](https://img.shields.io/badge/-Matrix-333333?style=for-the-badge&logo=matrix)
 ![Element](https://img.shields.io/badge/-Element-333333?style=for-the-badge&logo=element)
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
 ![Teamspeak](https://img.shields.io/badge/-Teamspeak-333333?style=for-the-badge&logo=teamspeak)
 
-### Operating System
+### :zap: Operating System
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
