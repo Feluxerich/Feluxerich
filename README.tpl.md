@@ -8,7 +8,7 @@
 [![Repos](https://badges.pufler.dev/repos/Feluxerich?style=for-the-badge&color=black&logo=github)](https://github.com/Feluxerich?tab=repositories)
 [![Monthly Commits](https://badges.pufler.dev/commits/monthly/Feluxerich?style=for-the-badge&color=black&logo=github)](https://github.com/Feluxerich)
 
-### Check out what I'm currently working on
+### :construction_worker: Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
