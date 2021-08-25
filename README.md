@@ -11,9 +11,9 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (today)
-- [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (3 days ago)
-- [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react (3 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 day ago)
+- [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (4 days ago)
+- [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react (4 days ago)
 - [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (2 weeks ago)
 - [Feluxerich/PyCommandLine](https://github.com/Feluxerich/PyCommandLine) - A python package for creating command line modules. (2 weeks ago)
 
