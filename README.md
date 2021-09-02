@@ -11,8 +11,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [Feluxerich/api-lookup](https://github.com/Feluxerich/api-lookup) - a api-lookup tool using svelte (1 day ago)
 - [Feluxerich/svelte-tailwind-template](https://github.com/Feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (1 day ago)
+- [Feluxerich/api-lookup](https://github.com/Feluxerich/api-lookup) - a api-lookup tool using svelte (2 days ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 week ago)
 - [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (1 week ago)
 - [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react (1 week ago)
