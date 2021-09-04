@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Look... What is this? It's my nice about me page? But... Hey, my name is **Felix** and I'm 15 years old. I'm developing in python (as you may see in my most used languages). I live in germany near Nuremberg (bavaria :beers:).
+Look... What is this? It's my nice about me page? But... Hey, my name is **Felix** and I'm 15 years old. I'm developing in python (as you may see in my most used languages ^^). I live in germany near Nuremberg (bavaria :beers:).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=dark&show_icons=true&count_private=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=dark">
@@ -11,19 +11,19 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [Feluxerich/projects](https://github.com/Feluxerich/projects) - manage your projects and some more (today)
 - [Feluxerich/svelte-tailwind-template](https://github.com/Feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (3 days ago)
 - [Feluxerich/api-lookup](https://github.com/Feluxerich/api-lookup) - a api-lookup tool using svelte (4 days ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 week ago)
 - [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (2 weeks ago)
-- [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react (2 weeks ago)
 
 ### :seedling: My latest projects
 
+- [Feluxerich/projects](https://github.com/Feluxerich/projects) - manage your projects and some more
 - [Feluxerich/svelte-tailwind-template](https://github.com/Feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind
 - [Feluxerich/api-lookup](https://github.com/Feluxerich/api-lookup) - a api-lookup tool using svelte
 - [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react
 - [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go.
-- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) - 
 
 ### :computer: Programming Languages and Frameworks
 
