@@ -16,7 +16,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :seedling: My latest projects
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}){{ with .Description}} - {{ . }}{{ end }}
 {{- end}}
 
 ### :computer: Programming Languages and Frameworks
