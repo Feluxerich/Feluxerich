@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Look... What is this? It's my nice about me page? But... Hey, my name is **Felix** and I'm 15 years old. I'm developing in python (as you may see in my most used languages ^^). I live in germany near Nuremberg (bavaria :beers:).
+Look... What is this? It's my nice about me page? But... Hey, my name is **Felix**. I'm mostly developing in python (as you may see in my most used languages ^^). I live in germany near Nuremberg (bavaria :beers:).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=dark&show_icons=true&count_private=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=dark">
@@ -11,10 +11,10 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (1 day ago)
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (today)
 - [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (4 days ago)
 - [feluxerich/api-lookup](https://github.com/feluxerich/api-lookup) - a api-lookup tool using svelte (5 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 week ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
 - [feluxerich/Moonlight-GoLang](https://github.com/feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (2 weeks ago)
 
 ### :seedling: My latest projects
