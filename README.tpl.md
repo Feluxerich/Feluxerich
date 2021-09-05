@@ -11,7 +11,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }} - {{ . }} ({{humanize .OccurredAt}})
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{ . }}{{ end }} ({{humanize .OccurredAt}})
 {{- end}}
 
 ### :seedling: My latest projects
