@@ -40,6 +40,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=for-the-badge&logo=vue.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=svelte)
 
 ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=for-the-badge&logo=go)
 
