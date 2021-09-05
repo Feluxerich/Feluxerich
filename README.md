@@ -11,19 +11,19 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [Feluxerich/projects](https://github.com/Feluxerich/projects) - manage your projects and some more (today)
-- [Feluxerich/svelte-tailwind-template](https://github.com/Feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (3 days ago)
-- [Feluxerich/api-lookup](https://github.com/Feluxerich/api-lookup) - a api-lookup tool using svelte (4 days ago)
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (1 day ago)
+- [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (4 days ago)
+- [feluxerich/api-lookup](https://github.com/feluxerich/api-lookup) - a api-lookup tool using svelte (5 days ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 week ago)
-- [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (2 weeks ago)
+- [feluxerich/Moonlight-GoLang](https://github.com/feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go. (2 weeks ago)
 
 ### :seedling: My latest projects
 
-- [Feluxerich/projects](https://github.com/Feluxerich/projects) - manage your projects and some more
-- [Feluxerich/svelte-tailwind-template](https://github.com/Feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind
-- [Feluxerich/api-lookup](https://github.com/Feluxerich/api-lookup) - a api-lookup tool using svelte
-- [Feluxerich/React-Web-Editor](https://github.com/Feluxerich/React-Web-Editor) - Kind of a web editor using react
-- [Feluxerich/Moonlight-GoLang](https://github.com/Feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go.
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more
+- [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind
+- [feluxerich/api-lookup](https://github.com/feluxerich/api-lookup) - a api-lookup tool using svelte
+- [feluxerich/React-Web-Editor](https://github.com/feluxerich/React-Web-Editor) - Kind of a web editor using react
+- [feluxerich/Moonlight-GoLang](https://github.com/feluxerich/Moonlight-GoLang) - The Interpreter of Moonlight written in Go.
 
 ### :computer: Programming Languages and Frameworks
 
