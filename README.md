@@ -11,7 +11,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/projects](https://github.com/feluxerich/projects) (today)
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (today)
 - [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (4 days ago)
 - [feluxerich/api-lookup](https://github.com/feluxerich/api-lookup) - a api-lookup tool using svelte (5 days ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
@@ -19,7 +19,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :seedling: My latest projects
 
-- [feluxerich/projects](https://github.com/feluxerich/projects)
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more
 - [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind
 - [feluxerich/api-lookup](https://github.com/feluxerich/api-lookup) - a api-lookup tool using svelte
 - [feluxerich/React-Web-Editor](https://github.com/feluxerich/React-Web-Editor) - Kind of a web editor using react
@@ -47,6 +47,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=for-the-badge&logo=vue.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-333333?style=for-the-badge&logo=svelte)
 
 ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=for-the-badge&logo=go)
 
