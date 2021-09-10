@@ -11,9 +11,9 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (1 day ago)
-- [felbinger/felbinger](https://github.com/felbinger/felbinger) (1 day ago)
-- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (3 days ago)
+- [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (2 days ago)
+- [felbinger/felbinger](https://github.com/felbinger/felbinger) (2 days ago)
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (4 days ago)
 - [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (1 week ago)
 - [feluxerich/api-lookup](https://github.com/feluxerich/api-lookup) - a api-lookup tool using svelte (1 week ago)
 
