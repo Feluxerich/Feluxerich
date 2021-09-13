@@ -11,10 +11,10 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - basically an all in one web app with react  (today)
-- [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (4 days ago)
-- [felbinger/felbinger](https://github.com/felbinger/felbinger) (4 days ago)
-- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (6 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - basically an all in one web app with react  (1 day ago)
+- [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (5 days ago)
+- [felbinger/felbinger](https://github.com/felbinger/felbinger) (5 days ago)
+- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (1 week ago)
 - [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (1 week ago)
 
 ### :seedling: My latest projects
