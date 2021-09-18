@@ -11,7 +11,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - basically an all in one web app with react  (5 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - basically an all in one web app with react  (6 days ago)
 - [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (1 week ago)
 - [felbinger/felbinger](https://github.com/felbinger/felbinger) (1 week ago)
 - [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (1 week ago)
