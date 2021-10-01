@@ -15,7 +15,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 - [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (3 weeks ago)
 - [felbinger/felbinger](https://github.com/felbinger/felbinger) (3 weeks ago)
 - [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more (3 weeks ago)
-- [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (4 weeks ago)
+- [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind (1 month ago)
 
 ### :seedling: My latest projects
 
