@@ -11,19 +11,19 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - basically an all in one web app with react  (1 day ago)
+- [feluxerich/core](https://github.com/feluxerich/core) (1 day ago)
+- [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react  (2 days ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (1 week ago)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (2 weeks ago)
 - [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (1 month ago)
-- [felbinger/felbinger](https://github.com/felbinger/felbinger) (1 month ago)
 
 ### :seedling: My latest projects
 
+- [feluxerich/core](https://github.com/feluxerich/core)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio
-- [feluxerich/core](https://github.com/feluxerich/core) - basically an all in one web app with react 
+- [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react 
 - [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more
-- [feluxerich/svelte-tailwind-template](https://github.com/feluxerich/svelte-tailwind-template) - a basic template with svelte kit and tailwind
 
 ### :computer: Programming Languages and Frameworks
 
