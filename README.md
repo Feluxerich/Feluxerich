@@ -11,15 +11,15 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) (1 day ago)
-- [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react  (5 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://feluxerich.github.io/core (1 day ago)
+- [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react  (6 days ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (1 week ago)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (3 weeks ago)
 - [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (1 month ago)
 
 ### :seedling: My latest projects
 
-- [feluxerich/core](https://github.com/feluxerich/core)
+- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://feluxerich.github.io/core
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react 
