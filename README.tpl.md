@@ -41,6 +41,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=for-the-badge&logo=vue.js)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-333333?style=for-the-badge&logo=nuxt.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=svelte)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-333333?style=for-the-badge&logo=svelte)
