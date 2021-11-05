@@ -1,9 +1,11 @@
 ### Hey there 👋
 
 Look... What is this? It's my nice about me page? But... Hey, my name is **Felix**. I'm mostly developing in python (as you may see in my most used languages ^^). I live in germany near Nuremberg (bavaria :beers:).
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=dark&show_icons=true&count_private=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=dark">
+<div style="display: flex; flex-direction: row">
+<img align="left" style="margin-right: 1rem" src="https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=dark&show_icons=true&count_private=true">
+<img align="right" style="margin-left: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=dark">
+</div>
+<br style="visibility: hidden" />
 
 [![Years](https://badges.pufler.dev/years/Feluxerich?style=for-the-badge&color=black&logo=github)](https://github.com/Feluxerich)
 [![Repos](https://badges.pufler.dev/repos/Feluxerich?style=for-the-badge&color=black&logo=github)](https://github.com/Feluxerich?tab=repositories)
@@ -11,19 +13,19 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (today)
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (2 days ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react  (1 week ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (2 weeks ago)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (4 weeks ago)
-- [MarcelCoding/MarcelCoding](https://github.com/MarcelCoding/MarcelCoding) - Hi there 👋! (1 month ago)
 
 ### :seedling: My latest projects
 
+- [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template)
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react 
-- [feluxerich/projects](https://github.com/feluxerich/projects) - manage your projects and some more
 
 ### :computer: Programming Languages and Frameworks
 
