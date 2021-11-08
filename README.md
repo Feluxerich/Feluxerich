@@ -13,8 +13,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (1 day ago)
-- [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (2 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (today)
+- [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (3 days ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react  (1 week ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (2 weeks ago)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (1 month ago)
