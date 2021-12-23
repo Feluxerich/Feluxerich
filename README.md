@@ -13,9 +13,9 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (5 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (6 days ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (1 month ago)
-- [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react  (1 month ago)
+- [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (1 month ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (2 months ago)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (2 months ago)
 
@@ -25,7 +25,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio
-- [feluxerich/core_old](https://github.com/feluxerich/core_old) - basically an all in one web app with react 
+- [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core
 
 ### :computer: Programming Languages and Frameworks
 
