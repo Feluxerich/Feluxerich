@@ -13,7 +13,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (4 weeks ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (1 month ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (2 months ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (2 months ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (2 months ago)
