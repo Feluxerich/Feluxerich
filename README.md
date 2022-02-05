@@ -17,7 +17,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (3 months ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (3 months ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (3 months ago)
-- [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (3 months ago)
+- [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (4 months ago)
 
 ### :seedling: My latest projects
 
