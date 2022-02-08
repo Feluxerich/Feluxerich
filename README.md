@@ -13,19 +13,19 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [feluxerich/feluxerich.github.io](https://github.com/feluxerich/feluxerich.github.io) (1 day ago)
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (2 weeks ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (3 months ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (3 months ago)
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (3 months ago)
-- [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio (4 months ago)
 
 ### :seedling: My latest projects
 
+- [feluxerich/feluxerich.github.io](https://github.com/feluxerich/feluxerich.github.io)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template)
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs)
 - [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio
-- [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core
 
 ### :computer: Programming Languages and Frameworks
 
