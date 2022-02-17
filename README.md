@@ -13,19 +13,19 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner) (1 day ago)
 - [feluxerich/feluxerich.github.io](https://github.com/feluxerich/feluxerich.github.io) (1 week ago)
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (3 weeks ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (3 months ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (3 months ago)
-- [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs) (4 months ago)
 
 ### :seedling: My latest projects
 
+- [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner)
 - [feluxerich/feluxerich.github.io](https://github.com/feluxerich/feluxerich.github.io)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template)
 - [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/
 - [feluxerich/default-nodejs](https://github.com/feluxerich/default-nodejs)
-- [feluxerich/portfolio](https://github.com/feluxerich/portfolio) - a terminal based web portfolio
 
 ### :computer: Programming Languages and Frameworks
 
