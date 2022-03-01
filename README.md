@@ -9,7 +9,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (1 day ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Docs: https://docs.core.fluxi.ml/ (2 days ago)
 - [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner) (1 week ago)
 - [feluxerich/feluxerich.github.io](https://github.com/feluxerich/feluxerich.github.io) (3 weeks ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (3 months ago)
