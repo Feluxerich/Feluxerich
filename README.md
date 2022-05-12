@@ -9,8 +9,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [feluxerich/core](https://github.com/feluxerich/core) (1 day ago)
 - [m2vi/filmlist](https://github.com/m2vi/filmlist) (1 month ago)
-- [feluxerich/core](https://github.com/feluxerich/core) (1 month ago)
 - [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner) (2 months ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (6 months ago)
 - [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (6 months ago)
