@@ -13,7 +13,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 - [m2vi/filmlist](https://github.com/m2vi/filmlist) (2 months ago)
 - [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner) (3 months ago)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template) (6 months ago)
-- [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (6 months ago)
+- [feluxerich/core_old](https://github.com/feluxerich/core_old) - permanently moved to https://github.com/feluxerich/core (7 months ago)
 
 ### :seedling: My latest projects
 
