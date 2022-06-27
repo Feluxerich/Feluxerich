@@ -9,8 +9,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (2 days ago)
-- [feluxerich/core](https://github.com/feluxerich/core) (1 week ago)
+- [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (3 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) (2 weeks ago)
 - [feluxerich/socho](https://github.com/feluxerich/socho) (3 weeks ago)
 - [m2vi/filmlist](https://github.com/m2vi/filmlist) (3 months ago)
 - [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner) (4 months ago)
