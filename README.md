@@ -9,7 +9,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) (today)
+- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (1 day ago)
 - [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (1 month ago)
 - [feluxerich/core](https://github.com/feluxerich/core) (1 month ago)
 - [m2vi/filmlist](https://github.com/m2vi/filmlist) (4 months ago)
@@ -17,7 +17,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :seedling: My latest projects
 
-- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend)
+- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase
 - [feluxerich/core-bot](https://github.com/feluxerich/core-bot)
 - [feluxerich/python-oneliner](https://github.com/feluxerich/python-oneliner)
 - [feluxerich/nuxt-typescript-tailwind-template](https://github.com/feluxerich/nuxt-typescript-tailwind-template)
