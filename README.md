@@ -9,7 +9,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (1 week ago)
+- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (2 weeks ago)
 - [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (1 month ago)
 - [feluxerich/core](https://github.com/feluxerich/core) (2 months ago)
 - [m2vi/filmlist](https://github.com/m2vi/filmlist) (5 months ago)
