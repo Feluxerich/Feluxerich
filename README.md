@@ -9,8 +9,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 days ago)
-- [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (5 days ago)
+- [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (3 days ago)
+- [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (6 days ago)
 - [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (1 month ago)
 - [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (2 months ago)
 - [feluxerich/core](https://github.com/feluxerich/core) (3 months ago)
