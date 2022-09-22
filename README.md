@@ -12,7 +12,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (1 week ago)
 - [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (2 weeks ago)
 - [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (1 month ago)
-- [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (2 months ago)
+- [feluxerich/core-bot](https://github.com/feluxerich/core-bot) (3 months ago)
 - [feluxerich/core](https://github.com/feluxerich/core) (3 months ago)
 
 ### :seedling: My latest projects
