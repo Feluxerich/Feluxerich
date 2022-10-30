@@ -9,7 +9,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (1 day ago)
+- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (2 days ago)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react) (1 week ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 weeks ago)
 - [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (1 month ago)
