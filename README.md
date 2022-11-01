@@ -9,11 +9,11 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (3 days ago)
+- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (4 days ago)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react) (2 weeks ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 weeks ago)
 - [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (1 month ago)
-- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (2 months ago)
+- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (3 months ago)
 
 ### :seedling: My latest projects
 
