@@ -9,16 +9,16 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (1 day ago)
-- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (6 days ago)
+- [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (1 day ago)
+- [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 days ago)
+- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (1 week ago)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react) (2 weeks ago)
 - [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (1 month ago)
-- [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase (3 months ago)
 
 ### :seedling: My latest projects
 
+- [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide)
 - [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend
-- [feluxerich/fileshare_frontend](https://github.com/feluxerich/fileshare_frontend)
 - [feluxerich/fileshare_backend](https://github.com/feluxerich/fileshare_backend) - a file share api fully built without using a dabase
