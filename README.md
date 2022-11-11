@@ -11,7 +11,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (1 week ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (1 week ago)
-- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (1 week ago)
+- [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (2 weeks ago)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react) (3 weeks ago)
 - [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend (2 months ago)
 
