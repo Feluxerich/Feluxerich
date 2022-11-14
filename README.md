@@ -9,11 +9,11 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) (today)
+- [feluxerich/core](https://github.com/feluxerich/core) (1 day ago)
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (1 week ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (1 week ago)
 - [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (2 weeks ago)
-- [feluxerich/default-react](https://github.com/feluxerich/default-react) (3 weeks ago)
+- [feluxerich/default-react](https://github.com/feluxerich/default-react) (4 weeks ago)
 
 ### :seedling: My latest projects
 
