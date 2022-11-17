@@ -10,8 +10,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 ### :construction_worker: Check out what I'm currently working on
 
 - [feluxerich/core](https://github.com/feluxerich/core) - Used to know (today)
-- [feluxerich/core-v1](https://github.com/feluxerich/core-v1) (3 days ago)
-- [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (1 week ago)
+- [feluxerich/core-v1](https://github.com/feluxerich/core-v1) (4 days ago)
+- [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (2 weeks ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 weeks ago)
 - [zekroTJA/coder-templates](https://github.com/zekroTJA/coder-templates) - Some of my personal workspace templates for Coder OSS. (2 weeks ago)
 
