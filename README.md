@@ -9,7 +9,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - Used to know (3 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Used to know (4 days ago)
 - [feluxerich/core-v1](https://github.com/feluxerich/core-v1) (1 week ago)
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (2 weeks ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 weeks ago)
@@ -17,8 +17,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :seedling: My latest projects
 
+- [feluxerich/core-chat](https://github.com/feluxerich/core-chat)
 - [feluxerich/core](https://github.com/feluxerich/core) - Used to know
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide)
-- [feluxerich/secure-cord-frontend](https://github.com/feluxerich/secure-cord-frontend) - The official Secure-Cord Frontend
