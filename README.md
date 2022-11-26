@@ -9,7 +9,7 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/core](https://github.com/feluxerich/core) - Used to know (today)
+- [feluxerich/core](https://github.com/feluxerich/core) - Used to know (1 day ago)
 - [feluxerich/core-v1](https://github.com/feluxerich/core-v1) (1 week ago)
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (3 weeks ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (3 weeks ago)
