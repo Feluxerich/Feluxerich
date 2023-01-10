@@ -17,8 +17,8 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :seedling: My latest projects
 
+- [feluxerich/CMod](https://github.com/feluxerich/CMod) - The extension mod for the FUtils plugin
 - [feluxerich/FUtils](https://github.com/feluxerich/FUtils) - The only Minecraft Plugin you need
 - [feluxerich/core](https://github.com/feluxerich/core) - Used to know
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates)
 - [feluxerich/default-react](https://github.com/feluxerich/default-react)
-- [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide)
