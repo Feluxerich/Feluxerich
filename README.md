@@ -9,9 +9,9 @@ Look... What is this? It's my nice about me page? But... Hey, my name is **Felix
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [feluxerich/FUtils](https://github.com/feluxerich/FUtils) - The only Minecraft Plugin you need (2 days ago)
-- [feluxerich/core](https://github.com/feluxerich/core) - Used to know (1 week ago)
-- [feluxerich/core-v1](https://github.com/feluxerich/core-v1) (1 month ago)
+- [feluxerich/FUtils](https://github.com/feluxerich/FUtils) - The only Minecraft Plugin you need (3 days ago)
+- [feluxerich/core](https://github.com/feluxerich/core) - Used to know (2 weeks ago)
+- [feluxerich/core-v1](https://github.com/feluxerich/core-v1) (2 months ago)
 - [feluxerich/coder-templates](https://github.com/feluxerich/coder-templates) (2 months ago)
 - [feluxerich/AdminGuide](https://github.com/feluxerich/AdminGuide) (2 months ago)
 
